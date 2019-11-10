@@ -1,0 +1,16 @@
+body{
+	background-image: url(ahoy.jpg);
+}
+h2{
+	color: blue;
+}
+#div1{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-MugWmL0bDdjuLjGG6EtAXTtpzufce4jlw3HsodKPGXdv-Rm&s);
+}
+.div1first{
+	display: block;
+	
+}
